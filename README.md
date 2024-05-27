@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para criar um ebook informando toda a curiosidade da série
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa para a criatividade.
 
-LINK: 
+LINK: https://github.com/HectorCardoso93/lab-natty-or-not/blob/main/Gerando-ebook-IA-Generative.odt
 
 ## 💭 Reflexão (Opcional)
 O desafio me fez explorar mais desse universo maravilhoso que é a IA Generativa, e foi uma experiência muito boa, me fez usar a criatividade.
